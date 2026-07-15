@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zayn-web-dev
 - 👀 I’m interested in programing 
 - 🌱 I’m currently learning java and html
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me contact me 9624599164
 <!---
 Zayn-web-dev/Zayn-web-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
